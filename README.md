@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Java , spring boot**
+- 🌱 I’m currently learning **System design , DSA ,Java ,Spring Boot, Hibernate, and JavaFX**
 
-- 💬 Ask me about **React , redux , Nodejs , Express**
+- 💬 Ask me about **React , redux , Nodejs , Express JavaScript**
 
 - 📫 How to reach me **sumansingh13062000@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/suman-singh-chauhan-6085741aa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/suman-singh-chauhan-6085741aa/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/suman-singh-chauhan-6085741aa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suman-singh-chauhan-6085741aa" height="30" width="40" /></a>
 <a href="https://discord.gg/sumansingh226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sumansingh226" height="30" width="40" /></a>
 </p>
 
