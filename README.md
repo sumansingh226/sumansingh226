@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumansingh226" alt="sumansingh226" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🌱 I’m currently learning **System design , DSA ,Java ,Spring Boot, Hibernate, and JavaFX**
+- 🌱 I’m currently learning **System design , data structures and algorithms  ,Java ,Spring Boot, Hibernate, and JavaFX**
 
 - 💬 Ask me about **React , redux , Nodejs , Express JavaScript**
 
