@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumansingh226&label=Profile%20views&color=0e75b6&style=flat" alt="sumansingh226" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumansingh226" alt="sumansingh226" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="sumansingh226" /></a> </p>
 
 - 🌱 I’m currently learning **System design , data structures and algorithms  ,Java ,Spring Boot, Hibernate, and JavaFX**
 
