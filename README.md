@@ -4,9 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumansingh226&label=Profile%20views&color=0e75b6&style=flat" alt="sumansingh226" /> </p>
 
-
-- 🌱 I’m currently learning **System design , data structures and algorithms  , Java , Spring Boot.**
-
 - 💬 Ask me about **React , redux , Nodejs , Express JavaScript (MERN Stackck)**
 
 - 📫 How to reach me **sumansingh13062000@gmail.com**
