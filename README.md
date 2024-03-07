@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Suman singh</h1>
 <h3 align="center">A Skilled  Software Engineer from India</h3>
+<img align="right" alt="sumansingh226" width="400" height="300px" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sumansingh226&label=Profile%20views&color=0e75b6&style=flat" alt="sumansingh226" /> </p>
 - 💬 Ask me about **React , redux , Nodejs , Express JavaScript (MERN Stackck)**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -59,17 +61,11 @@
     </a>
     
 </p>
-<div style="display: flex; flex-wrap: wrap;">
-    <div style="width: 50%;">
-        <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumansingh226&show_icons=true&locale=en&layout=compact" alt="sumansingh226" /></p>
-    </div>
-    <div style="width: 50%;">
-        <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumansingh226&show_icons=true&locale=en" alt="sumansingh226" /></p>
-    </div>
-    <div style="width: 100%;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumansingh226" alt="sumansingh226" />
-    </div>
-</div>
+      <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumansingh226&show_icons=true&locale=en&layout=compact" alt="sumansingh226" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumansingh226&show_icons=true&locale=en" alt="sumansingh226" /></p>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumansingh226" alt="sumansingh226" />
 
 
 
