@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=sumansingh226&label=Profile%20views&color=6C63FF&style=flat-square" alt="Profile Views – sumansingh226" />
   <img src="https://img.shields.io/github/followers/sumansingh226?label=Followers&style=flat-square&color=6C63FF" alt="GitHub Followers – sumansingh226" />
   <img src="https://img.shields.io/badge/Focus-AI%20Engineer%20%7C%20Full%20Stack-6C63FF?style=flat-square" alt="Focus: AI Engineer and Full Stack" />
-  <img src="https://img.shields.io/badge/Open%20To-Work-brightgreen?style=flat-square" alt="Open to Work" />
+  <img src="https://img.shields.io/badge/Open%20To-Work-brightgreen?style=flat-square" alt="Open to contribute" />
 </p>
 
 <img align="right" alt="AI Full Stack Developer Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
