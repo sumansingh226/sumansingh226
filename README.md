@@ -159,15 +159,17 @@ I'm a **Full Stack & AI Engineer** from India who builds production-grade intell
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sumansingh226&show_icons=true&locale=en&layout=compact&theme=tokyonight&langs_count=8&hide_border=true" alt="Top Programming Languages – sumansingh226" width="360"/>
+  <img src="https://gh-readme-stats.vercel.app/api/top-langs/?username=sumansingh226&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Programming Languages – sumansingh226"/>
+&nbsp;&nbsp;
+  <img src="https://gh-readme-stats.vercel.app/api?username=sumansingh226&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats – sumansingh226 Full Stack AI Engineer"/>
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sumansingh226&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="GitHub Stats – sumansingh226 Full Stack AI Engineer" width="450"/>
+<p align="left">
+  <img src="https://streak-stats.demolab.com/?user=sumansingh226&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats – sumansingh226"/>
 </p>
 
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumansingh226&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats – sumansingh226" width="450"/>
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sumansingh226&theme=tokyonight" alt="GitHub Profile Summary – sumansingh226"/>
 </p>
 
 ---
