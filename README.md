@@ -142,19 +142,6 @@ I'm a **Full Stack & AI Engineer** from India who builds production-grade intell
 
 ---
 
-## 🔗 Connect with Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/suman-singh-6085741aa/" target="_blank" rel="noreferrer" title="LinkedIn – Suman Singh">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn – Suman Singh Full Stack AI Engineer" height="32" width="42"/>
-  </a>&nbsp;
-  <a href="https://discord.gg/sumansingh226" target="_blank" rel="noreferrer" title="Discord – sumansingh226">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord – sumansingh226" height="32" width="42"/>
-  </a>
-</p>
-
----
-
 ## 📊 GitHub Stats
 
 <p align="left">
