@@ -25,7 +25,6 @@ I'm a **Full Stack & AI Engineer** from India who builds production-grade intell
 - 🗄️ Database experience: **MySQL · PostgreSQL · ClickHouse · Apache Doris**
 - 🐳 DevOps: **Docker · CI/CD Pipelines · GitHub Actions**
 - 💬 Ask me about **LangChain, LangGraph, RAG pipelines, React, Node.js, AI agents**
-- 📫 Connect on **[LinkedIn](https://www.linkedin.com/in/suman-singh-6085741aa/)**
 - ⚡ I love turning cutting-edge AI research into real, working products!
 
 ---
