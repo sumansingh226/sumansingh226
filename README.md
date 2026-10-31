@@ -12,7 +12,6 @@
 <img align="right" alt="AI Full Stack Developer Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 ---
-
 ## 👨‍💻 About Me
 
 I'm a **Full Stack & AI Engineer** from India who builds production-grade intelligent web applications end-to-end — from beautiful React UIs to scalable Node.js backends and LLM-powered AI pipelines.
